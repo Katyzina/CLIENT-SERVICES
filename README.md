@@ -1,1 +1,1 @@
-PHP laboratory work "Работа с бд"
+PHP laboratory work "Добавление бд"
