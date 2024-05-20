@@ -1,1 +1,1 @@
-PHP laboratory work "Работа с сессиями"
+PHP laboratory work "Работа с бд"
